@@ -1,26 +1,3 @@
-# Shuttle V3
-### Shittle V3 🔥🔥🔥 bext prxy ever!
+<a href="https://goo.su/qvM9"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/162437626/313431083-951d33de-704e-48e9-bc7e-96bfb8869bf3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240316T211253Z&X-Amz-Expires=300&X-Amz-Signature=ed0c7726b4aa0bdad08b6d37620e2ecad1c55aefc6ffd0c82f3df2e181cf7078&X-Amz-SignedHeaders=host&actor_id=162437626&key_id=0&repo_id=768013967" /></a>
 
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://github.com/shuttlenetwork/shuttle/wiki#how-to-deploy-to-onrender)
-[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/shuttlenetwork/shuttle)
-[![Remix on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/shuttlenetwork/shuttle)
-[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/shuttlenetwork/shuttle)
-[![Deploy to Azure](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/azure.svg)](https://deploy.azure.com/?repository=https://github.com/shuttlenetwork/shuttle)
-[![Deploy to IBM Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/shuttlenetwork/shuttle)
-[![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/shuttlenetwork/shuttle)
-[![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/shuttlenetwork/shuttle)
-
-## Discord Server
-
-[![Join us on Discord](https://invidget.switchblade.xyz/xi)](https://discord.gg/xi)
-
-## Setup
-
-```sh
-git clone https://github.com/shuttlenetwork/shuttle.git
-cd shuttle
-npm install
-npm start
-```
-## Info 
-- If you are running this site on replit or other hosting platform that bans proxies, use [Shuttle Lite](https://github.com/shuttlenetwork/shuttle-lite)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/162437626/313431129-24df69d8-8b60-4f2f-b524-d625a4f98abb.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240316T211337Z&X-Amz-Expires=300&X-Amz-Signature=72be21f2ec3aaa07e75b881899e90fb7bfe975ef42ea6b47b7398b12cb0f243c&X-Amz-SignedHeaders=host&actor_id=162437626&key_id=0&repo_id=768013967" />
